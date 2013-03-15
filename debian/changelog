@@ -1,0 +1,12 @@
+freight (0.3.2.extra-0~mhi1) precise; urgency=low
+
+  * New upstream release
+  * New list and remove commands
+
+ -- Lance Linder <llinder@medicomhealth.com>  Fri, 15 Mar 2013 16:55:00 -0500
+
+freight (0.3.1-0~mhi1) precise; urgency=low
+
+  * Initial release
+
+ -- Lance Linder <llinder@medicomhealth.com>  Tue, 22 May 2012 13:45:34 -0500

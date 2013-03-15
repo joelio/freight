@@ -1,0 +1,14 @@
+Source: freight
+Section: utils
+Priority: optional
+Maintainer: Lance Linder <llinder@medicomhealth.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/rcrowley/freight
+
+Package: freight
+Section: utils
+Architecture: all
+Depends: ${misc:Depends}
+Description: A modern take on the Debian archive.
+
