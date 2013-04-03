@@ -1,3 +1,12 @@
+freight (0.3.3.extra-0~mhi1) precise; urgency=low
+
+  * New upstream release
+    - source control caching
+    - fixed for non TTY conditions when run with set -e
+    - handles multiple versions of same package
+
+ -- Lance Linder <llinder@medicomhealth.com>  Mon, 15 Apr 2013 16:06:00 -0500
+
 freight (0.3.2.extra-0~mhi1) precise; urgency=low
 
   * New upstream release
